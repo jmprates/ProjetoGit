@@ -7,6 +7,6 @@ public class Fatorial{
         	fat =1;
         		for (i = 1; i<= n; i++)
              		 fat = fat * i;
-            		System.out.println(fat);
+            		
 	}
 }
